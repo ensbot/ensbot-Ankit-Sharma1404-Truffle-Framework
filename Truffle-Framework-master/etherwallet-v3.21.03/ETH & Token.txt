@@ -1,0 +1,17 @@
+lottery Contract using Truffle Framework: - 
+
+(1.) In Order to participate a user sends 1 ETH to the contract and gets 1 participation token.  
+		First go to the the website "https://www.myetherwallet.com/". and go to the bottom of website footer "Github: Latest Release"
+		Then Download "etherwallet-v3.21.03.zip" file. on computer and unzip it and open the folder and run "index.html" file.
+		
+		Now create "Password" and download "keystore file(UTC/JSON)" and copy the Private Key then save address.
+		select "Keystore/JSON File" option now select "wallet file" and enter :password"
+		
+		This thing are do in "offline MYEtherWallet" and copy the user address for sending the ETH.
+		Now, go to the "Online MYEtherWallet" website and select "Send Ether & Token" option and select "keystore file(UTC/JSON)" radio button now select "wallet file" and enter :password"
+		
+		How to add custom Token:-
+		Go to "etherscan.io" website and select "Toeken/ view Token bar" and go to search bar option on type "SPHTX" and open it select which h lots off address.
+		Now copy the the "ERC20 Contract" address and back to "online MYEtherWallet" and select "Add Custom Token" and copy the
+		"Token Contract Address" and "Token Symbol enter SPHTX" and "Decimal enter 18" and save it.
+		
